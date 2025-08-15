@@ -14,3 +14,4 @@ Includes a Jupyter Notebook with analysis code and a PDF presentation summarizin
 - Hypothesis: market underestimates dividends by ~13% tax, causing partial rebound
 - Performance: WinRate 70%, Sharpe 1.6, Profit Factor 2.6
 - Outperformed MCFTR benchmark by 0.65 p.p.
+![Strategy Performance](cumulative_profit.png)
